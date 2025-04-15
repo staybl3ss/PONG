@@ -1,6 +1,6 @@
 # Pong Game
 
-A two-player Pong game built with Python using object-oriented programming (OOP) and the `turtle` graphics module.
+A two-player Pong game built with Python using object-oriented programming (OOP) and the `turtle` graphics module. This is a game I created after making the Snake Game, as I had more confidence in building different rule-oriented systems with the turtles module. I wanted to recreate another childhood game that would be somewhat more difficult than the Snake game. In this project, I had to consider variable difficulties and speeds, whereas in the Snake game everything is relatively constant in difficulty.
 
 # Goal
 
